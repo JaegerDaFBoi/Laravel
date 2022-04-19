@@ -30,3 +30,10 @@ Instalacion de las dependencias de Jetstream por npm.
 Para usar npm, se debe instalar node.Js
 https://nodejs.org/es/
 ********
+![image](https://user-images.githubusercontent.com/92832390/163897615-3bc73a0f-2d2c-4820-a443-5ab21c434e34.png)
+Comando para realizar el build de las dependencias y el proyecto al modificarse cualquier CSS
+********
+![image](https://user-images.githubusercontent.com/92832390/163897889-32ab003b-d44d-46ac-b255-f57651223ae6.png)
+Se hace la migración de la base de datos. Se migran las tablas correspondientes de Jetstream para construir un login con registro de usuarios, sesiones, doble factor de autenticacion, etcetera.
+********
+
