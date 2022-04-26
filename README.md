@@ -46,9 +46,16 @@ Creación de modelo, con el correspondiente controlador y los recursos necesario
 Al crearse la migracion correspondiente a la tabla del modelo, se puede modificar la migracion y usar artisan migrate de nuevo para actualizar la tabla en la base de datos
 ********
 ![image](https://user-images.githubusercontent.com/92832390/165196703-adf29ca8-5ffc-4748-b757-48fc7506b532.png)
+
 Asignación de una ruta dentro de una vista Blade
+
 ![image](https://user-images.githubusercontent.com/92832390/165196828-fbeb711b-5c49-4ace-9fbc-303226372e89.png)
 Creación de la ruta en el archivo web.php ubicado en la carpeta routes.
 Con estos pasos se crea una ruta para el modelo, se puede ver la asignacion en un elemento de una vista y la creacion de la ruta en el archivo correspondiente
 ********
+![image](https://user-images.githubusercontent.com/92832390/165199643-06833c5b-84d8-4544-97fe-c61738c33e2e.png)
 
+ Posterior a la ruta se crea la vista en la carpeta resources/views  
+ ********
+ ![image](https://user-images.githubusercontent.com/92832390/165202812-3d029bff-a349-43e9-be11-7680450179f4.png)
+Se crea el metodo en el controlador correspondiente al modelo
