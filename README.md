@@ -37,3 +37,18 @@ Comando para realizar el build de las dependencias y el proyecto al modificarse 
 Se hace la migración de la base de datos. Se migran las tablas correspondientes de Jetstream para construir un login con registro de usuarios, sesiones, doble factor de autenticacion, etcetera.
 ********
 
+METODOS CREATE Y SHOW 
+
+![image](https://user-images.githubusercontent.com/92832390/165194428-fda73f03-dbef-4b2d-b63e-f0d2b2148b61.png)
+Creación de modelo, con el correspondiente controlador y los recursos necesarios. -mcr es la instruccion crea el modelo con su controlador y los recursos
+********
+![image](https://user-images.githubusercontent.com/92832390/165195794-ed89adb7-82a7-440c-abbc-c4bb69e770d0.png)
+Al crearse la migracion correspondiente a la tabla del modelo, se puede modificar la migracion y usar artisan migrate de nuevo para actualizar la tabla en la base de datos
+********
+![image](https://user-images.githubusercontent.com/92832390/165196703-adf29ca8-5ffc-4748-b757-48fc7506b532.png)
+Asignación de una ruta dentro de una vista Blade
+![image](https://user-images.githubusercontent.com/92832390/165196828-fbeb711b-5c49-4ace-9fbc-303226372e89.png)
+Creación de la ruta en el archivo web.php ubicado en la carpeta routes.
+Con estos pasos se crea una ruta para el modelo, se puede ver la asignacion en un elemento de una vista y la creacion de la ruta en el archivo correspondiente
+********
+
