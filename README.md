@@ -58,4 +58,11 @@ Con estos pasos se crea una ruta para el modelo, se puede ver la asignacion en u
  Posterior a la ruta se crea la vista en la carpeta resources/views  
  ********
  ![image](https://user-images.githubusercontent.com/92832390/165202812-3d029bff-a349-43e9-be11-7680450179f4.png)
+ 
 Se crea el metodo en el controlador correspondiente al modelo
+
+********
+![image](https://user-images.githubusercontent.com/92832390/165202983-9bd120ee-cf06-460a-b4d1-d8e73b8c9bee.png)
+
+Ejemplo de la vista que nos aparece despues de la creacion del metodo en el controlador
+
