@@ -65,4 +65,12 @@ Se crea el metodo en el controlador correspondiente al modelo
 ![image](https://user-images.githubusercontent.com/92832390/165202983-9bd120ee-cf06-460a-b4d1-d8e73b8c9bee.png)
 
 Ejemplo de la vista que nos aparece despues de la creacion del metodo en el controlador
+********
+![image](https://user-images.githubusercontent.com/92832390/165412156-9e6b47a8-9e6d-4321-b84f-407e5d9167d5.png)
+
+Metodos crear del controlador
+
+![image](https://user-images.githubusercontent.com/92832390/165412235-51ac0f0f-5e71-45ed-a879-6fecb6e9eafa.png)
+
+Vista del formulario crear
 
