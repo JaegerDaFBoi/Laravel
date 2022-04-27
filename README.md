@@ -73,4 +73,12 @@ Metodos crear del controlador
 ![image](https://user-images.githubusercontent.com/92832390/165412235-51ac0f0f-5e71-45ed-a879-6fecb6e9eafa.png)
 
 Vista del formulario crear
+*********
+![image](https://user-images.githubusercontent.com/92832390/165422838-04861380-49cf-43d1-982e-8aa4502af4e4.png)
+
+Se crea una vista para definir el layout y el elemento form, donde se llama el metodo store del controlador, y se incluye la vista formulario
+
+![image](https://user-images.githubusercontent.com/92832390/165422905-f224a5b8-3eab-49d3-9bd1-6b84d08ba572.png)
+
+Metodo Listar para las tablas
 
