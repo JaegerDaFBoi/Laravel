@@ -82,3 +82,24 @@ Se crea una vista para definir el layout y el elemento form, donde se llama el m
 
 Metodo Listar para las tablas
 
+**************
+![image](https://user-images.githubusercontent.com/92832390/166605023-1bfdebb1-4ea6-4889-9fe1-f865086956af.png)
+
+Metodo para crear nuevo registro
+
+![image](https://user-images.githubusercontent.com/92832390/166605073-43d6cdab-dd09-4b9f-b58c-b060942678a9.png)
+
+Formulario para creacion. El formulario se hace en una vista aparte y se incluye en la vista llamada por el controlador 
+
+**************
+![image](https://user-images.githubusercontent.com/92832390/166605154-19117ce1-c3e7-4044-ab62-092a7bf091bb.png)
+
+Metodo para ver y editar registros
+
+![image](https://user-images.githubusercontent.com/92832390/166605190-99df4c88-5b4d-4a57-805a-7f43cc4c58be.png)
+
+Vista del formulario de actualizacion
+
+![image](https://user-images.githubusercontent.com/92832390/166605237-c1204e23-0917-4570-abc2-05226a88a0b9.png)
+
+Metodo para eliminar registros
